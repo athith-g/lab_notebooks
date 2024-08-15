@@ -14,6 +14,8 @@ Used Spotify API to get additional data.
 
 **TikTokData.ipynb** - Extraction of data from TikTok HTTP requests.
 
+**openpyxl_project** - Restructuring of data using openpyxl (before learning Pandas).
+
 ### Machine Learning
 **TextClustering.ipynb** - K-Means clustering of text data to draw themes from text responses.
 
