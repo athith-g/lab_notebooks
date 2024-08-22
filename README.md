@@ -8,7 +8,7 @@ Used Spotify API to get additional data.
 
 **FindDOIs.ipynb** - Tool that fetches DOIs using the CrossRef API.
 
-## Data management and processing
+## Data Management and Processing
 **Data_Restructure.ipynb** - Handful of data restructuring tasks using Pandas.
 
 **TikTokData.ipynb** - Extraction of data from TikTok HTTP requests.
