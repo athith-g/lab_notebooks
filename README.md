@@ -19,6 +19,8 @@ Used Spotify API to get additional data.
 **TextClustering.ipynb** - K-Means clustering of text data to draw themes from text responses.
 
 ## Miscellaneous
+**TikTokDownloader** - Tool used to automate the process of downloading TikToks from a list of URLs.
+
 **Lab_Presentation.ipynb** - Notebook used to give lab presentation.
 
 ## Credits for data management work:
